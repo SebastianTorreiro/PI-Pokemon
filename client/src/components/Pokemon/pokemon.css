@@ -1,0 +1,75 @@
+ .card-conteiner{
+    padding: 0;
+    border: 5px solid white;
+    border-radius: 15px;
+/* overflow: hidden; */
+}
+body{
+    margin: 0px;
+}
+.image-card{
+    height:71%;
+    width: 240px;
+}
+.image-card img{
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;
+    object-fit: cover;
+    
+}
+.text-card{
+    background-color: beige;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    height:29%;
+    width: 100%;
+
+}
+.buton-details{
+    height  : 20px;
+}
+.card-conteiner-grass{
+    padding: 0;
+    border: 5px solid #4FFF02;
+    border-radius: 15px;
+/* overflow: hidden; */
+}
+.card-conteiner-fire{
+    padding: 0;
+    border: 5px solid #FF352B;
+    border-radius: 15px;
+/* overflow: hidden; */
+}
+.card-conteiner-water{
+    padding: 0;
+    border: 5px solid blue;
+    border-radius: 15px;
+/* overflow: hidden; */
+}
+/* "normal" */
+/* "fighting" */
+/* "flying" */
+/* "poison" */
+/* "ground" */
+/* "rock" */
+/* "ghost" */
+/* "steel" */
+.card-conteiner-bug{
+    padding: 0;
+    border: 5px solid #CCE929;
+    border-radius: 15px;
+/* overflow: hidden; */
+}
+.card-conteiner-normal{
+    padding: 0;
+    border: 5px solid #BFC1B5;
+    border-radius: 15px;
+/* overflow: hidden; */
+}
+
+
+
+

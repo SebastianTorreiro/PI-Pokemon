@@ -1,0 +1,24 @@
+
+.logo{
+    width: 100px;
+    height: 100px;   
+    object-fit: cover; 
+    border-radius: 50%;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+    object-fit: cover
+};
+
+#img-home{
+    width: 100px;
+    height: 100px;
+    object-fit: cover
+}
+body{
+   margin: 0px;
+}
